@@ -1,3 +1,6 @@
 [submodule "sade"]
 	path = sade
 	url = https://github.com/ahsanMah/sade
+[submodule "braintypicality-scripts"]
+	path = braintypicality-scripts
+	url = https://github.com/ahsanMah/braintypicality-scripts.git
