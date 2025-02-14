@@ -4,3 +4,6 @@
 [submodule "braintypicality-scripts"]
 	path = braintypicality-scripts
 	url = https://github.com/ahsanMah/braintypicality-scripts.git
+[submodule "ds-analysis"]
+	path = ds-analysis
+	url = https://github.com/ahsanMah/ds-analysis
